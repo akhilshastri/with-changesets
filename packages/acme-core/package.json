@@ -16,7 +16,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@acme/tsconfig": "*",
+    "@acme/tsconfig": "1.0.0",
     "eslint": "^7.32.0",
     "eslint-config-acme": "*",
     "@types/react": "^17.0.13",
